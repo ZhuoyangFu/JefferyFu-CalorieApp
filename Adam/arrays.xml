@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item>一周定制</item>
+        <item>今日信息</item>
+        <item>推荐菜谱</item>
+    </string-array>
+</resources>
