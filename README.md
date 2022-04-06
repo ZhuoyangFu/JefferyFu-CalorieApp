@@ -9,3 +9,5 @@ et al. (2015), nearly 45% of participate has stopped using diet application due 
 burden and hidden cost. Thus, this project aiming at providing users an mobile application to
 encourage them keep on record their daily calories with humanize user interface, personalized
 features and diet related functions.
+
+The entire project is in "main.rar"
