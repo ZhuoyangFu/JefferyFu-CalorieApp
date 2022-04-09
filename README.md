@@ -10,4 +10,7 @@ burden and hidden cost. Thus, this project aiming at providing users an mobile a
 encourage them keep on record their daily calories with humanize user interface, personalized
 features and diet related functions.
 
-The entire project is in "main.rar"
+The entire project is in "main.rar" and you should choose "master" account.
+
+User name: WYH
+Password: wuyuehang
