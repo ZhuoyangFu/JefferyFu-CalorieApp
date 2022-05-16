@@ -1,5 +1,4 @@
 # JefferyFu-CalorieApp
-Config files for my GitHub profile.
 This project focus on developing a daily calories record application for diet people. Diet
 application has widely developed nowadays. However, one of the vital important problems is that
 how to increase user stickiness and encourage users to keep on using this application to diet. Many
